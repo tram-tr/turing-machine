@@ -1,0 +1,12 @@
+move_zero.csv
+q1,q2,q3,q4
+0,$
+0,$,_
+q1
+q4
+qreject
+q1,0,q1,0,R
+q1,$,q2,$,R
+q2,0,q3,$,L
+q3,$,q1,0,R
+q2,_,q4,_,R
